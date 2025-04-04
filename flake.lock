@@ -7,11 +7,11 @@
         ]
       },
       "locked": {
-        "lastModified": 1743785143,
-        "narHash": "sha256-JkMGOWnt8QH8xsQI0DfPCVOX32ETk44gd+ObCw5TDWM=",
+        "lastModified": 1743785368,
+        "narHash": "sha256-iadQ8dquH8aVprWQS2FhU2zp4DHDo9I7Oh47KtgdDjo=",
         "owner": "kawaiiepic",
         "repo": "astal",
-        "rev": "6287a94ef4244f527e75d3cd80559d02dd2e92dc",
+        "rev": "622b0d46dc7587c89689234c82534ba265c8e1b7",
         "type": "github"
       },
       "original": {
